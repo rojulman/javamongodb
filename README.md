@@ -4,7 +4,7 @@
   [I'm an inline-style link](https://www.google.com)
   </li>
   <li>
-    [Instalasi MongoDB](./install_mongo.md)
+    [Instalasi MongoDB](https://github.com/rojulman/javamongodb/instalasi_mongodb.md)
   </li>
   <li>Buat Project Java
 
