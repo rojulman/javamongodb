@@ -2,5 +2,18 @@
 <ol>
   <li>Pengantar</li>
   <li>Instalasi MongoDB</li>
-  <li>Buat Project Java</li>
+  <li>Buat Project Java
+
+[java]
+MongoClient mongoClient = null;
+        MongoCredential mongoCredential = MongoCredential.createScramSha1Credential("admin", "dblatihan",
+                "123456".toCharArray());
+
+[/java]  
+  
+  
+  
+  </li>
+  
+  
 </ol>
