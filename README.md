@@ -1,7 +1,9 @@
 <h2>Java Mongodb Connection </h2>
 <ol>
   <li>Pengantar</li>
-  <li>Instalasi MongoDB</li>
+  <li>
+    [Instalasi MongoDB](../install_mongo.md)
+  </li>
   <li>Buat Project Java
 
 ```java
