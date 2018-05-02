@@ -1,6 +1,8 @@
 <h2>Java Mongodb Connection </h2>
 <ol>
-  <li>Pengantar</li>
+  <li>Pengantar
+  [I'm an inline-style link](https://www.google.com)
+  </li>
   <li>
     [Instalasi MongoDB](../install_mongo.md)
   </li>
